@@ -1,0 +1,695 @@
+#EXTM3U
+#EXTINF:-1 group-title="ARG", 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-lam.png" group-title="ARG", CLARO EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-1-lam.png" group-title="ARG", Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-2-lam.png" group-title="ARG", Claro Sports 2
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="ARG", Combate
+http://daleplaytv.vip:80//live/123MMM/654321/306483.ts
+#EXTINF:-1 group-title="ARG", COMBATE x DAZN
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png"  group-title="ARG", ESPN 1 MX
+https://mx1.gt-app.com/41/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png"  group-title="ARG", ESPN 2 MX
+https://mx1.gt-app.com/40/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png"  group-title="ARG", ESPN 2 SUR
+https://mx1.gt-app.com/79/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png"  group-title="ARG", ESPN 3 MX
+https://mx1.gt-app.com/39/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png"  group-title="ARG", ESPN 3 SUR
+https://mx1.gt-app.com/78/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG", ESPN PREMIUM🇦🇷
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png"  group-title="ARG", ESPN SUR
+https://mx1.gt-app.com/77/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPNMX 2
+http://181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
+#EXTINF:-1 tvg-id="Estrella TV" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/las-estrellas.png" group-title="ARG", Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/f1-tv-int.png"  group-title="ARG", FORMULA 1
+https://mx1.gt-app.com/81/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png"  group-title="ARG", FOX EXTRANJEROS 1 MX
+https://mx1.gt-app.com/30/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-lam.png"  group-title="ARG", FOX EXTRANJEROS 3 MX
+https://mx1.gt-app.com/28/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="ARG" tvg-id="FOX ONE", tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-ar.png", FOX ONE
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/deportv-ar.png" group-title="ARG",DeporTV
+https://tv.nousiptv.com:8443/Lopera77/872399/29348
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports + HD
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/62552
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports 1 (ARG)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports 2 ARG (L)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9566
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports 2 ARG (Z)
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9567
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports Fight
+http://tv.zapping.life:8080/mayleenfunez1/135535683598/9568
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports HD (COL)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/75569
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports HD (ECU)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/29930
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", Directv Sports HD (PE)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/156522
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG",DSports
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", DSPORTS (190.117)
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", DSPORTS (OP 3)
+http://38.252.213.12:8000/play/a01k
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png", DSPORTS 1 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png", DSPORTS 1 🇦🇷
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG",DSports 2
+https://tv.nousiptv.com:8443/Lopera77/872399/1091367
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG",DSports AR
+http://cinemagold.club:80//live/Leec3324/Leec3324/50726.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", DSPORTS HD
+http://190.238.43.117:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", DSPORTS+ HD
+http://190.238.43.117:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dtv-logo-blue.png" group-title="ARG", DSPORTS2 HD
+http://190.238.43.117:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN
+http://181.118.158.103:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN (Backup)
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9521
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN (Principal)
+https://tv.nousiptv.com:8443/853030a1/anibalp/1090736
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-lam.png" group-title="ARG",ESPN 1 LAT (Z)(720) (Backup)
+http://gol-tv.online:80/12345678/12345678/845120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",Espn 1 MEX (i)(1080)
+https://tv.nousiptv.com:8443/Lopera77/872399/1155892
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ARG",ESPN 2
+http://181.118.158.103:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ARG",ESPN 2 (Backup)
+http://45.167.1.136:8000/play/a06b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ARG",ESPN 2 (Principal)
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ARG", ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/449.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="ARG", ESPN 2 Latin (alt)
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="ARG",ESPN 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png", ESPN 2 🇦🇷
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png", ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ARG",ESPN 3 (Backup)
+http://45.181.122.46:8090/play/a01t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ARG",ESPN 3 (Principal)
+http://45.167.1.136:8000/play/a02k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png" group-title="ARG",ESPN 3 MX
+http://daleplaytv.vip:80//live/123MMM/654321/361011.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png" group-title="ARG",ESPN 3 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="premium",ESPN 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ARG",ESPN 4 (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/360928.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ARG",ESPN 4 (Backup)
+http://45.167.1.136:8000/play/a02l
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ARG",ESPN 4 (Principal)
+https://tv.nousiptv.com:8443/Lopera77/872399/4120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ARG", ESPN 4 HD
+http://181.78.49.113:9999/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-lam.png" group-title="ARG",ESPN 4 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG",ESPN 5 (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/306878.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG",ESPN 5 (Backup)
+http://45.167.1.136:8000/play/a04g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG",ESPN 5 (Principal)
+https://tv.nousiptv.com:8443/Lopera77/872399/1245731
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG", ESPN 5 HD
+http://181.78.49.113:9999/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG",ESPN 5 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png", ESPN 5 🇦🇷
+http://190.0.247.38:8000/play/a012
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ARG",ESPN 6 (Backup)
+https://tv.nousiptv.com:8443/Lopera77/872399/1197851
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ARG",ESPN 6 (Principal)
+http://45.167.1.136:8000/play/a06d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ARG",ESPN 6 HD
+http://daleplaytv.vip:80//live/123MMM/654321/361022.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ARG", ESPN 6 HD
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ARG",ESPN 7 (Principal)
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ARG",ESPN 7 HD
+http://daleplaytv.vip:80//live/123MMM/654321/361023.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ARG", ESPN 7 HD
+http://38.7.101.90:8000/play/a1zj/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN carib
+http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/66372
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN carib2
+http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/99623
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN Chile
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/417182.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN CO
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10685.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN CO
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-deportes-us.png" group-title="ARG",ESPN Deportes
+http://daleplaytv.vip:80//live/123MMM/654321/360941.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-deportes-us.png" group-title="ARG", ESPN DEPORTES
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN HD
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN IXP
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN MX
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG", ESPN PREMIIUM
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG",ESPN PREMIUM
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG",ESPN Premium (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/81254.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG",ESPN Premium (Backup)
+http://45.181.122.46:8090/play/a015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG",ESPN Premium (Principal)
+http://8.242.175.210:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ARG", ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG", ESPN SD (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/147277
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ARG",ESPN USA
+https://tv.nousiptv.com:8443/Lopera77/872399/34602
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png", ESPN 🇦🇷
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ARG", espn2
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png" group-title="ARG", ESPN3 MX
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ARG", espn4
+http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG", ESPN5 HD
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ARG", ESPN5 MX
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ARG", ESPN6
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="premium",Evento 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="ARG",FOX EXTRANJEROS 1 HD
+https://tv.nousiptv.com:8443/853030a1/anibalp/1090739
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-lam.png" group-title="ARG",FOX EXTRANJEROS 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-lam.png" group-title="ARG", Fox EXTRANJEROS 3
+http://45.5.119.43:4000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-mx.png" group-title="ARG", FOX EXTRANJEROS Premium
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-mx.png" group-title="ARG",FOX EXTRANJEROS PREMIUM ARG
+http://cinemagold.club:80//live/Leec3324/Leec3324/360952.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-ar.png" group-title="ARG", Fox Sports 2 SD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/41031
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-ar.png" group-title="ARG",FOX Sports 3
+http://45.167.2.138:8000/play/a0qn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-ar.png" group-title="ARG", Fox Sports HD (ARG)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/63152
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-ar.png", FX EXTRANJEROS 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-ar.png", FX PREM
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 group-title="ARG", Gol TV
+http://38.44.109.41:8003/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/Liga_1_(Peru).png" group-title="ARG",L1 MAX
+http://daleplaytv.vip:80//live/123MMM/654321/306889.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-por-movistar-plus-es.png" group-title="ARG", la liga
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-hdr-por-movistar-plus-es.png" group-title="ARG",LA LIGA opcion 1
+http://cinemagold.club:80//live/Leec3324/Leec3324/406839.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-2-por-movistar-plus-es.png" group-title="ARG",LA LIGA opcion 2
+http://cinemagold.club:80//live/Leec3324/Leec3324/406871.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-3-por-movistar-plus-es.png" group-title="ARG",LA LIGA opcion 3
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/6331
+#EXTINF:-1 group-title="ARG" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-hdr-por-movistar-plus-es.png", La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png" group-title="ARG", Latino | beIN Sports ñ HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TVC Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TVC Deportes (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/134328
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TyC EXTRANJEROS
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TyC EXTRANJEROS
+http://190.108.93.75:8001/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG", TyC Sports
+http://200.112.174.230/mtcast_tychd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG",TyC Sports HD
+https://tv.nousiptv.com:8443/Lopera77/872399/8247
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ARG",TyC Sports Internacional
+http://cinemagold.club:80//live/Leec3324/Leec3324/81538.ts
+#EXTINF:-1  group-title="ESPA", AFIZZIONADOS
+https://mx1.gt-app.com/72/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="ESPA", Arena Sports 02 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244270
+#EXTINF:-1 group-title="ESPA", Arena Sports 03 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244271
+#EXTINF:-1 group-title="ESPA", Arena Sports 04 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244272
+#EXTINF:-1 group-title="ESPA", Arena Sports 05 HR (1280x720)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/244273
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/aymsports.png", AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/aymsports.png" group-title="ESPA", AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA", Azteca 7
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA", Azteca 7a
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA", Azteca Deportes
+http://38.41.8.1:8000/play/a0ye
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA",Azteca Deportes FHD
+http://deluxe-tv.site:80/raul_gutierrez/Guti2022R/412068.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA", AZTECA uno
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png", BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png", beIN Sports XTRA ñ
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png" group-title="ESPA", BEIN SPORTS Ñ
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png" group-title="ESPA", BEIN SPORTS Ñ.HD2
+http://190.83.9.222:8000/play/ca129
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPA", BEIN SPORTXTRA Ñ 🇸🇻
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPA", Caracol
+http://190.0.247.38:8000/play/a009
+#EXTINF:-1 group-title="ESPA", Caracol2
+http://190.0.247.38:8000/play/a04c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-lam.png"  group-title="ESPA", CLARO EXTRANJEROS
+https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-lam.png" group-title="ESPA", CLARO EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-1-lam.png" group-title="ESPA", Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-2-lam.png" group-title="ESPA", Claro Sports 2
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="ESPA", Combate
+http://daleplaytv.vip:80//live/123MMM/654321/306483.ts
+#EXTINF:-1 group-title="MX&USA", COMBATE x DAZN
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="ESPA",D | OneToros
+http://cinemagold.club:80//live/Leec3324/Leec3324/360998.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn-es.png" group-title="ESPA", DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn1-de.png" group-title="ESPA",DAZN OPCION 1
+http://cinemagold.club:80//live/Leec3324/Leec3324/406691.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn2-de.png" group-title="ESPA",DAZN OPCION 2
+http://cinemagold.club:80//live/Leec3324/Leec3324/406692.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn-3-es.png" group-title="ESPA",DAZN OPCION 3
+http://cinemagold.club:80//live/Leec3324/Leec3324/406699.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn-4-es.png" group-title="ESPA",DAZN 4
+https://tv.nousiptv.com:8443/Lopera77/872399/1147319
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/dazn-es.png" group-title="ESPA",DAZN COMBAT
+https://tv.nousiptv.com:8443/853030a1/anibalp/1288460
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN
+http://181.118.158.103:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="Fútbol Argentino", ESPN
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN (Backup)
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9521
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN (Principal)
+https://tv.nousiptv.com:8443/853030a1/anibalp/1090736
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN 1 LAT (Z)(720) (Backup)
+http://gol-tv.online:80/12345678/12345678/845120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",Espn 1 MEX (i)(1080)
+https://tv.nousiptv.com:8443/Lopera77/872399/1155892
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png"  group-title="ESPA", ESPN 1 MX
+https://mx1.gt-app.com/41/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ESPA",ESPN 2
+http://181.118.158.103:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="ESPA",ESPN 2 (Backup)
+http://45.167.1.136:8000/play/a06b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="ESPA",ESPN 2 (Principal)
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="ESPA", ESPN 2 Latin (alt)
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png"  group-title="ESPA", ESPN 2 MX
+https://mx1.gt-app.com/40/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png"  group-title="ESPA", ESPN 2 SUR
+https://mx1.gt-app.com/79/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-lam.png" group-title="MX&USA",ESPN 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png", ESPN 2 🇦🇷
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png", ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ESPA",ESPN 3 (Backup)
+http://45.181.122.46:8090/play/a01t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ESPA",ESPN 3 (Principal)
+http://45.167.1.136:8000/play/a02k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png"  group-title="ESPA", ESPN 3 MX
+https://mx1.gt-app.com/39/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-lam.png" group-title="ESPA",ESPN 3 MX
+http://daleplaytv.vip:80//live/123MMM/654321/361011.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png"  group-title="ESPA", ESPN 3 SUR
+https://mx1.gt-app.com/78/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="MX&USA",ESPN 3 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="premium",ESPN 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA",ESPN 4 (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/360928.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA",ESPN 4 (Backup)
+http://45.167.1.136:8000/play/a02l
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA",ESPN 4 (Principal)
+https://tv.nousiptv.com:8443/Lopera77/872399/4120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA", ESPN 4 HD
+http://181.78.49.113:9999/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="MX&USA",ESPN 4 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA",ESPN 5 (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/306878.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA",ESPN 5 (Backup)
+http://45.167.1.136:8000/play/a04g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA",ESPN 5 (Principal)
+https://tv.nousiptv.com:8443/Lopera77/872399/1245731
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA", ESPN 5 HD
+http://181.78.49.113:9999/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="MX&USA",ESPN 5 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png", ESPN 5 🇦🇷
+http://190.0.247.38:8000/play/a012
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ESPA",ESPN 6 (Backup)
+https://tv.nousiptv.com:8443/Lopera77/872399/1197851
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ESPA",ESPN 6 (Principal)
+http://45.167.1.136:8000/play/a06d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ESPA",ESPN 6 HD
+http://daleplaytv.vip:80//live/123MMM/654321/361022.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ESPA", ESPN 6 HD
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ESPA",ESPN 7 (Principal)
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ESPA",ESPN 7 HD
+http://daleplaytv.vip:80//live/123MMM/654321/361023.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-7-ar.png" group-title="ESPA", ESPN 7 HD
+http://38.7.101.90:8000/play/a1zj/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN carib
+http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/66372
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN carib2
+http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/99623
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN Chile
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/417182.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN CO
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10685.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN CO
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-deportes-us.png" group-title="ESPA",ESPN Deportes
+http://daleplaytv.vip:80//live/123MMM/654321/360941.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-deportes-us.png" group-title="ESPA", ESPN DEPORTES
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN HD
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN IXP
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", ESPN MX
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ESPA", ESPN PREMIIUM
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="MX&USA",ESPN PREMIUM
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ESPA",ESPN Premium (Backup 2)
+http://daleplaytv.vip:80//live/123MMM/654321/81254.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ESPA",ESPN Premium (Backup)
+http://45.181.122.46:8090/play/a015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ESPA",ESPN Premium (Principal)
+http://8.242.175.210:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-premium-ar.png" group-title="ESPA", ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="MX&USA",ESPN SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA",ESPN USA
+https://tv.nousiptv.com:8443/Lopera77/872399/34602
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png", ESPN 🇦🇷
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ESPA", espn2
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ESPA", ESPN3 MX
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA", espn4
+http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA", ESPN5 HD
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-5-ar.png" group-title="ESPA", ESPN5 MX
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-6-ar.png" group-title="ESPA", ESPN6
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/extraSports.png" group-title="premium",Evento 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="ESPA",FOX EXTRANJEROS 1 HD
+https://tv.nousiptv.com:8443/853030a1/anibalp/1090739
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-lam.png" group-title="MX&USA",FOX EXTRANJEROS 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-lam.png" group-title="ESPA", Fox EXTRANJEROS 3
+http://45.5.119.43:4000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-mx.png" group-title="ESPA", FOX EXTRANJEROS Premium
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-mx.png" group-title="ESPA",FOX EXTRANJEROS PREMIUM ARG
+http://cinemagold.club:80//live/Leec3324/Leec3324/360952.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-ar.png" group-title="ESPA",FOX Sports 3
+http://45.167.2.138:8000/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-lam.png", FX EXTRANJEROS 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-ar.png", FX PREM
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-por-movistar-plus-es.png" group-title="ESPA", Gol TV
+http://38.44.109.41:8003/play/a02h/index.m3u8
+#EXTINF:-1  group-title="ESPA", GOLTV
+https://mx1.gt-app.com/76/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-por-movistar-plus-es.png"  group-title="ESPA", LA LIGA
+https://mx1.gt-app.com/75/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/claro-sports-lam.png" group-title="ESPA", Latino | CLARO EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ESPA", Latino | ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-2-ar.png" group-title="ESPA", Latino | ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ESPA", Latino | ESPN 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-3-ar.png" group-title="ESPA", Latino | ESPN 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn-4-ar.png" group-title="ESPA", Latino | ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", Latino | ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/espn.png" group-title="ESPA", Latino | ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-2-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-3-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="ESPA", Latino | FOX EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-premium-mx.png" group-title="ESPA", Latino | FOX EXTRANJEROS PREMIUM HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/fox-sports-1-lam.png" group-title="ESPA", Latino | FOX DEPORTES HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.m3u8
+#EXTINF:-1 group-title="ESPA", Latino | REAL MADRID HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/121.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", Latino | TUDN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ESPA", Latino | TYC EXTRANJEROS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Latino | Win Sports + HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Latino | Win Sports HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", Latino | Zona Tudn HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/7910.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/laliga-tv-por-movistar-plus-es.png", LIG 🇪🇸
+http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/deportes-por-movistar-plus-es.png" group-title="ESPA",Movistar Deportes
+http://38.226.210.46:8000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/azteca-7-mx.png" group-title="ESPA", Mundial Azteca UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 group-title="ESPA", Mundial NBC Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="ESPA", MX | TVC DEPORTES HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
+#EXTINF:-1  group-title="ESPA", NBA TV
+https://mx1.gt-app.com/74/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="ESPA", NBA TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/402.m3u8
+#EXTINF:-1 group-title="ESPA", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/sky-sports-icon-uk.png" group-title="ESPA", SKY EXTRANJEROS
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 group-title="ESPA",TD+
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/30477
+#EXTINF:-1 group-title="ESPA",TD+ 2
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/30478
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png"  group-title="ESPA", TDN
+https://mx1.gt-app.com/8/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/telefe-ar.png" group-title="ESPA", TeleAntioquia
+http://190.0.247.38:8000/play/a007
+#EXTINF:-1 group-title="ESPA" tvg-logo="", TELECOSTA GUATEMALA 🇬🇹
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/telefe-ar.png", TELEFE 🇦🇷
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 group-title="ESPA", TELEMEDELLIN
+http://190.0.247.38:8000/play/a008
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/telemundo-international-ar.png", TELEMUNDO 🇲🇽
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/telemundo-international-ar.png", TELEMUNDO 🇲🇽
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 group-title="ESPA", TIGO SPORT
+http://45.171.64.30:2000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="ESPA", TIGO SPORT HD6
+http://190.14.10.19:16000/play/a00ps/index.m3u8
+#EXTINF:-1 group-title="ESPA", TIGO SPORT HD7
+http://45.5.119.96:12500/play/a05q/index.m3u8
+#EXTINF:-1 group-title="ESPA",Tigo Sports
+http://181.78.17.52:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="ESPA", TIGO Sports
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Backup 1)
+https://tv.nousiptv.com:8443/853030a1/anibalp/1160041
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Backup 2)
+https://tv.nousiptv.com:8443/853030a1/anibalp/1156014
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Backup 3)
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57156
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Backup 4)
+http://daleplaytv.vip:80//live/123MMM/654321/276334.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Backup 5)
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/417204.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Premium (Principal)
+http://38.226.210.46:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="Fútbol Argentino", TNT Sports
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Sports (Backup 2)
+http://45.181.122.46:8090/play/a04m
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Sports (Backup)
+http://45.232.210.1:18000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tnt-sports-ar.png" group-title="ESPA",TNT Sports (Principal)
+http://181.78.201.70:8000/play/a0tx/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", tudn
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", TUDN
+http://45.171.64.30:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="MX&USA",TUDN
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", TUDN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/35529
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", TUDN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", TUDN IXP
+http://200.229.147.142:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA",TUDN MX
+http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-us.png" group-title="ESPA",TUDN USA
+https://tv.nousiptv.com:8443/Lopera77/872399/1105665
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-us.png" group-title="ESPA", TUDN🇺🇸
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/extraSports.png", TV2 🇪🇸
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/extraSports.png" group-title="ESPA", TVC Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC EXTRANJEROS
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC EXTRANJEROS
+http://190.108.93.75:8001/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ESPA", TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="Fútbol Argentino", TyC Sports
+http://200.112.174.230/mtcast_tychd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ESPA",TyC Sports HD
+https://tv.nousiptv.com:8443/Lopera77/872399/8247
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tyc-sports-ar.png" group-title="ESPA",TyC Sports Internacional
+http://cinemagold.club:80//live/Leec3324/Leec3324/81538.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png"  group-title="ESPA", UDN
+https://mx1.gt-app.com/4/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="ESPA",UK: Señal Colombia
+https://tv.nousiptv.com:8443/853030a1/anibalp/1155811
+#EXTINF:-1 group-title="ESPA",Via X Sport
+http://38.226.49.253:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png"  group-title="ESPA", WIN EXTRANJEROS
+https://mx1.gt-app.com/67/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="Tango Sports", WIN EXTRANJEROS
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png"  group-title="ESPA", WIN EXTRANJEROS +
+https://mx1.gt-app.com/66/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", WIN EXTRANJEROS+
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", WIN EXTRANJEROS+ HD
+http://181.205.130.194:4000/play/a0fu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", WIN SPORT HD12
+http://190.0.247.38:8000/play/a068
+#EXTINF:-1 group-title="ESPA" tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png", WIN SPORT 🇨🇴
+http://181.205.205.173:8888/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA",Win Sports
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Win Sports + HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA",Win Sports CO
+http://cinemagold.club:80//live/Leec3324/Leec3324/1384.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Win Sports HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA",Win Sports HD CO
+http://cinemagold.club:80//live/Leec3324/Leec3324/69293.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/Win%2BF_tbol.png" group-title="ESPA",Win+ Futbol
+https://tv.nousiptv.com:8443/853030a1/anibalp/16724
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Win1
+http://190.60.37.118:4000/play/a0b2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Win2
+http://190.60.37.118:4000/play/a0bw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/WinSports2024.png" group-title="ESPA", Winsport
+http://181.78.85.59:2500/play/a030/index.m3u8
+#EXTINF:-1  group-title="ESPA", WWE NETWORK
+https://mx1.gt-app.com/65/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="ESPA" tvg-logo="", X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/tudn-mx.png" group-title="ESPA", Zona TUDN (MX)
+http://www.1play.cool:25461/6614314274/af6b784fa1d0/78280
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/aymsports.png" group-title="ESPA",AYM Sports
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/bein-sports-espanol-int.png" group-title="ESPA",Bein Sports Xtra ñ *2
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gastoldev-ui/pachuko1ro/main/img/el-garage-tv-ar.png" group-title="ESPA",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/itvdeportes.png" group-title="ESPA",InterneTV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png" group-title="ESPA",MotorVision HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png" group-title="ESPA",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/xtremacnadeportes.png" group-title="ESPA",Xtrema TV Cna Deportes 2
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.es" group-title="ESPA",🇪🇸 REAL MADRID TV - Español (Oficial)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.m3u8" group-title="ESPA",🇪🇸 REAL MADRID TV - Stream alternativo
+https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foEvWqBkZ8ClA1mfsupPW-hQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.yt" group-title="ESPA",🇪🇸 REAL MADRID TV - YouTube Live (cuando hay evento)
+https://youtube.com/c/RealMadrid/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.en" group-title="ESPA",🇬🇧 REAL MADRID TV - English (Oficial)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
